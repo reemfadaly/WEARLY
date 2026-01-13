@@ -1,0 +1,8 @@
+{
+  "name": "WEARLY",
+  "description": "A stylized AI fashion visualization tool that transforms your outfits into game-like avatars, animates photos, and provides style analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
